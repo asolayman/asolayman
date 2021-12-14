@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solayman</h1>
-<h3 align="center">Student in AI at Université Claude Bernard Lyon 1</h3>
+<h3 align="center">PhD Student in AI & Cybersecurity</h3>
 
 - 📫 How to reach me **solayman.ayoubi@etu.univ-lyon1.fr**
 
