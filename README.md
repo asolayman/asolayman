@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Solayman</h1>
 <h3 align="center">PhD Student in AI & Cybersecurity</h3>
 
-- 📫 How to reach me **solayman.ayoubi@etu.univ-lyon1.fr**
+- 📫 How to reach me **solayman.ayoubi@univ-lorraine.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
